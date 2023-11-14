@@ -1,7 +1,8 @@
 This is the setup for merge
 this line i want to merge with master
 change first
-change second to explain compare
+change second
 to explain tag
 to explain second tag
 explain origin
+to explain difff
