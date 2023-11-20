@@ -6,7 +6,11 @@ Build the image using the following command
 $ docker build -t simple-flask-app:latest .
 ```
 
+<<<<<<< HEAD
 Run the Docker container using the command shown below.nov13
+=======
+Run the Docker container using the command shown below.hihwru
+>>>>>>> testing
 
 ```bash
 $ docker run -d -p 5000:5000 simple-flask-app
