@@ -8,4 +8,13 @@ explain origin
 to explain difff
 first commit
 second commit
+<<<<<<< HEAD
 tagging revist
+=======
+tommy is a bad boy
+kutty is a good girl
+batman
+superman
+wonderwoman111111
+wonderman
+>>>>>>> login
